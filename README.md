@@ -7,7 +7,7 @@
 •	Created 3 dashboards to track and project sales and profitability for various product categories
 
 
-__Project link__: https://tinyurl.com/4fxevuy
+__Project link__: https://tinyurl.com/4fxevuy4
 
 
 Note: Please visit the above link for access to dashboard. I am also attaching my project PPT and my dashboard work.
