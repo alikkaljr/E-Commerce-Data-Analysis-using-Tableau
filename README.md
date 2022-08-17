@@ -8,3 +8,6 @@
 
 
 __Project link__: https://tinyurl.com/4fxevuy
+
+
+Note: Please visit the above link for access to dashboard. I am also attaching my project PPT and my dashboard work.
